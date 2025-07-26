@@ -222,3 +222,6 @@ module-6/deployment/docker-compose.yml
 
 # uv files
 .python-version
+
+# Langgraph studio
+.langgraph_api 
